@@ -1,6 +1,7 @@
 # TWOTTER
 
 ## Description
+
 A simple Twitter clone using [Vite](https://vitejs.dev) + [Tailwind CSS](https://tailwindcss.com) + [Firebase](https://firebase.google.com).
 
 ## Project setup
@@ -20,12 +21,15 @@ npm run dev
 ```
 npm run build
 ```
+
 ## Todo
+
 - [x] Create a new project
 - [x] Add Tailwind CSS
 - [x] Design the UI
 - [ ] Create feed
-- [ ] Add Firebase
+- [ ] Add Supabase
+- [ ] Add Supabase SDK (Software Development Kit)
 - [ ] Add database
 - [ ] Add authentication
 - [ ] Add sign up
@@ -37,6 +41,7 @@ npm run build
 - [ ] Support images
 
 ### Extra
+
 - [ ] Comment tweet
 - [ ] Add profile
 - [ ] Pagination/Infinite scroll
