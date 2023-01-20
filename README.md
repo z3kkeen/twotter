@@ -27,18 +27,17 @@ npm run build
 - [x] Create a new project
 - [x] Add Tailwind CSS
 - [x] Design the UI
-- [ ] Create feed
-- [ ] Add Supabase
-- [ ] Add Supabase SDK (Software Development Kit)
-- [ ] Add database
-- [ ] Add authentication
-- [ ] Add sign up
-- [ ] Add sign in
-- [ ] Add sign out
-- [ ] Create tweet
+- [x] Create feed
+- [x] Add Supabase
+- [x] Add Supabase SDK (Software Development Kit)
+- [x] Add database
+- [x] Add authentication
+- [x] Add sign up
+- [x] Add sign in
+- [x] Add sign out
+- [x] Create tweet
+- [x] Update feed
 - [ ] Delete own tweet
-- [ ] Like/unlike tweet
-- [ ] Support images
 
 ### Extra
 
@@ -47,3 +46,4 @@ npm run build
 - [ ] Pagination/Infinite scroll
 - [ ] Retweet
 - [ ] Dark mode
+- [ ] Like/unlike tweet
